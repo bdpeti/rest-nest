@@ -370,8 +370,8 @@ export default function App() {
                 <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8">
                     <div>
                         <h3 className="text-2xl font-bold uppercase mb-2">Rest Nest</h3>
-                        <p className="text-zinc-500 text-sm">1051 Budapest, Hercegprímás utca 2.</p>
-                        <p className="text-zinc-500 text-sm">+36 30 123 4567</p>
+                        <p className="text-zinc-500 text-sm">1093 Budapest, Fővám tér 8.</p>
+                        <p className="text-zinc-500 text-sm">+36 70 356 5767</p>
                     </div>
                     <div className="flex gap-8 text-sm uppercase tracking-widest text-zinc-400">
                         <a href="#" className="hover:text-lime-400 transition-colors">GDPR</a>
@@ -379,7 +379,7 @@ export default function App() {
                         <a href="#" className="hover:text-lime-400 transition-colors">Sütik</a>
                     </div>
                     <div className="text-zinc-600 text-xs">
-                        © 2025 Rest Nest Budapest. All rights reserved.
+                        © 2025 Rest Nest. No rights reserved.
                     </div>
                 </div>
             </footer>
